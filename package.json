@@ -1,21 +1,18 @@
 {
-  "name": "electron-quick-start",
+  "name": "peerhost",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Add your computer as a host to the peers network",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/mark-archer/peerhost",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Peers"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Mark Archer",
+  "license": "UNLICENSED",
   "devDependencies": {
     "electron": "^11.1.0"
   }
