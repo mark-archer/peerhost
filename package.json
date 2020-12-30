@@ -15,5 +15,8 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "electron": "^11.1.0"
+  },
+  "dependencies": {
+    "peerstack": "^1.0.31"
   }
 }
