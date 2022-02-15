@@ -14,7 +14,7 @@
   "author": "Mark Archer",
   "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^11.1.0"
+    "electron": "^17.0.1"
   },
   "dependencies": {
     "peerstack": "^1.0.36",
