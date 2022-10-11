@@ -17,7 +17,7 @@
     "electron": "^11.1.0"
   },
   "dependencies": {
-    "peerstack": "^1.0.36",
+    "peerstack": "^6.2.25",
     "socket.io-client": "^2.3.1"
   }
 }
