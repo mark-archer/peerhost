@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **This repository is deprecated and no longer maintained.**
+> Development has moved to the [peers-app](https://github.com/peers-app) organization.
+> See [peers-app.github.io](https://peers-app.github.io) for current documentation.
+
 # peerhost
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
